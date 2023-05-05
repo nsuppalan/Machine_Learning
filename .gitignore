@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.vscode
+*.bak
+readme2.md
+*.ini
+*.pdf
+temp
+datasets
+*.bz2
